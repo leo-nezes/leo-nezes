@@ -19,6 +19,6 @@ Me chamo Leonardo Menezes :man_technologist:, sou um paraense apaixondo por tecn
 
  - 💙 Apaixonado por JavaScript e suas tecnologias.
  - 📌 Habilidades: NodeJS, ReactJS e React Native, Java, git, docker   
- - 📚 Atualmente aprimorando minhas habilidades na OmniStack
+ - 📚 Atualmente aprendendo Python, Django e Django Rest Framework
  - 📫 Me encontre: 
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leo-nezes)](https://github.com/leo-nezes) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leo-nezes/)](https://www.linkedin.com/in/leo-nezes/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonhard.menezes@gmail.com)](mailto:leonhard.menezes@gmail.com)
